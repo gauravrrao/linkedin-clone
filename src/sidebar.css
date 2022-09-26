@@ -1,0 +1,98 @@
+.upper-container{
+ background-color: rgb(206, 208, 237);
+ height: 22rem;
+ border-radius:10px;
+}
+
+.sidebar-container{
+    width: 15rem;
+}
+
+.color-container{
+    height: 60px;
+    background-color: rgb(72, 8, 59);
+    border-radius: 10px;
+    margin-bottom: -20px;
+}
+
+.image-nature{
+    height: 50px;
+    border-radius: 800px;
+    margin-left: 80px;
+}
+
+.profile-data{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.gaurav{
+    margin-left: 10px;
+}
+
+.line1{
+    margin-top: 10px;
+}
+.profile_stats{
+    font-size: 10px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+.statsno{
+    margin-left: 50px;
+    color: blue;
+    font-weight: bold;
+}
+.statsno2{
+    margin-left: 56px;
+    color: blue;
+    font-weight: bold;
+}
+.line2{
+    margin-top: 20px;
+}
+
+.access{
+    font-size: 10px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+
+.upper-container:hover{
+    cursor: default;
+}
+
+.bookmark{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.item{
+    display: flex;
+    align-items: center;
+}
+.itemname{
+   margin-left: 20px;
+   margin-top: 10px;
+}
+
+.lower-container{
+    background-color:  rgb(206, 208, 237);
+ height: 21rem;
+ border-radius:10px;
+margin-top: 10px;
+padding-top: 10px;
+}
+
+.hash{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.capital{
+    margin-left: 20px;
+    
+}
+.hash:hover{
+    color: blue;
+    cursor: pointer;
+    transform: scale(1.1);
+}

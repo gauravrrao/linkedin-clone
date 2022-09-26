@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.app_body{
+  display: grid;
+  grid-template-columns: repeat(5, 2fr);
+  gap: 20px;
+  grid-auto-rows: minmax(100px, auto);
+  
+  padding-left: 10rem;
+  padding-top: 30px;
+}

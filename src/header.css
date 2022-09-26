@@ -1,0 +1,41 @@
+.image{
+    height: 40px;
+    border-radius: 10px;
+}
+
+.image:hover{
+    cursor: pointer;
+}
+.field{
+   border-radius: 10px;
+   height:30px;
+   width: 20rem;
+   margin-left: 10px;
+   margin-top: 3px;
+   border: 0px;
+   background-color: rgb(204, 210, 228);
+   outline: 0;
+   padding: 3px 10px;
+}
+.left-container{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 140px;
+
+}
+.right-container{
+    margin-top: 20px;
+    margin-left: 10rem;
+}
+.header{
+    display: flex;
+    background-color: rgb(178, 12, 101);
+    height: 4.2rem;
+}
+.bars{
+    height: 140px;
+}
+.right-container{
+    display: flex;
+    margin-top: 10px;
+}

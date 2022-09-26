@@ -1,0 +1,45 @@
+.post-image{
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 50px;
+}
+.left-header{
+    display: flex;
+}
+.post{
+    margin-top: 30px;
+    background-color: rgb(202, 202, 225);
+    height: 10rem;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.body{
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: whitesmoke;
+    height: 50px;
+}
+.post-hr{
+    margin-top: 10px;
+}
+.post-option{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+.post-optio-title{
+    border-radius: 10px;
+    display: flex;
+}
+.post-optio-title:hover{
+    
+    cursor: pointer;
+    background-color: whitesmoke;
+}
